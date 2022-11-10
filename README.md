@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveshstark&label=Profile%20views&color=0e75b6&style=flat" alt="praveshstark" /> </p>
 
-<p align="left"> <a href="https://twitter.com/starkxx2" target="blank"><img src="https://img.shields.io/twitter/follow/starkxx2?logo=twitter&style=for-the-badge" alt="starkxx2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/stark__xx" target="blank"><img src="https://img.shields.io/twitter/follow/starkxx2?logo=twitter&style=for-the-badge" alt="starkxx2" /></a> </p>
 
 - 📫 How to reach me **pravesh.yadav.virat@gmail.com**
 

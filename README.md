@@ -12,7 +12,7 @@
 <a href="https://twitter.com/starkxx2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="starkxx2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/starkxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="starkxx" height="30" width="40" /></a>
 <a href="https://fb.com/pravesh.yadav.75286" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pravesh.yadav.75286" height="30" width="40" /></a>
-<a href="https://instagram.com/stark___xx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stark___xx" height="30" width="40" /></a>
+<a href="https://instagram.com/stark__xx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stark___xx" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/starkxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="starkxx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/praveshstark__2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="praveshstark__2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/stark_xx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="stark_xx" height="30" width="40" /></a>
